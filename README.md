@@ -1,2 +1,2 @@
 # group-work
-Created with CodeSandbox
+Alona, Celina, Kevork, Patrik B
